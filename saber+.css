@@ -1,0 +1,11 @@
+/* Remove margens e preenchimentos padrão */
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+/* Seletor específico para o banner */
+.banner {
+    margin: 0;
+    padding: 0;
+}
